@@ -98,5 +98,6 @@ To run this project, follow these steps:
 4. Proceed with `vgg16_lstm.ipynb` for the VGG16+LSTM model training and evaluation.
 5. Finally, execute `resnet_gru.ipynb` for the ResNet50+GRU model training and evaluation.
 6. Compare the BLEU scores as outputted by the notebooks to evaluate the models.
+7. Refer PPT for flow of the project
 
 Please refer to each notebook for detailed instructions on the steps involved in the respective processes.
