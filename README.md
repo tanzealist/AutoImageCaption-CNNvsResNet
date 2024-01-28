@@ -21,6 +21,10 @@ Our goal was to develop a model that automatically generates captions for images
 - Perform feature extraction and caption tokenization
 - Model building, training, and evaluation
 
+## Dataset Source
+- For further exploration and model generalization, the Flickr 8k Images with Captions dataset is also available on Kaggle and can be accessed at: [Flickr 8k Images with Captions on Kaggle](https://www.kaggle.com/datasets/kunalgupta2616/flickr-8k-images-with-captions).
+
+
 ## Dataset Analysis
 The Flickr 8k Dataset, comprising 8000 images each with 5 captions, was used. This dataset offers a diverse range of images and high-quality captions, ideal for training image captioning models. Below are some visuals from the dataset!
 
